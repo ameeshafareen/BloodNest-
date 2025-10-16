@@ -4,6 +4,7 @@
        It provides a secure, efficient, and role-based platform for managing donor registrations, recipient requests, and blood inventory across multiple locations.
 
 **🚀 Project Overview**
+
        BloodNest aims to bridge the gap between blood donors and recipients by digitalizing the entire process of blood management.
        From registering donors to tracking blood units, approving recipient requests, and maintaining stock levels — BloodNest ensures smooth, secure, and transparent operations.
 
@@ -15,16 +16,20 @@
         * Recipient: Request specific blood types and track request status.
         
 **💉 Blood Management**
+
         * Real-time tracking of blood stock levels by type and availability.
         * Automatic updates on donation and request approvals.
 
 **✅ Donor Eligibility Check**
+
       Validates donor health conditions and last donation date before approval.
 
 **🔒 Secure Operations**
+
       Uses authentication and validation for every role to ensure data integrity and security.
 
 **📊 Database-Driven**
+
       Built on MySQL for reliable data storage and retrieval.
 
 **🏗️ System Modules**
