@@ -1,10 +1,10 @@
-🩸 BloodNest — Centralized Blood Bank Management System
-
+🩸** BloodNest — Centralized Blood Bank Management System
+**
 BloodNest is a Centralized Blood Bank Management System built using Core Java and MySQL.
 It provides a secure, efficient, and role-based platform for managing donor registrations, recipient requests, and blood inventory across multiple locations.
 
-🚀 Project Overview
-
+**🚀 Project Overview
+**
 BloodNest aims to bridge the gap between blood donors and recipients by digitalizing the entire process of blood management.
 From registering donors to tracking blood units, approving recipient requests, and maintaining stock levels — BloodNest ensures smooth, secure, and transparent operations.
 
